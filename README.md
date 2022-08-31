@@ -3,4 +3,4 @@ its a solution for frontend angular medium level challenge. Front-end Challenge 
 
 
 
-#2 it was really fun to solve it. there was a time that i was going to quit but kept going nonstop.
+## it was really fun to solve it. there was a time that i was going to quit but kept going nonstop.
